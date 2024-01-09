@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssaisha
 - 👀 I’m interested in all things data and analytics engineering
-- 🌱 I’m currently exploring Open data stack and Rust
+- 🌱 I’m currently exploring Open data stack 
 - 📫 How to reach me -> add me on github
 
 <!---
